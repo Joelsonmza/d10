@@ -49,6 +49,7 @@ main a{
     color: var(--cor5);
     background-color: var(--cor1);
     padding: 1px 5px;
+    border-radius: 5px;
 }
 main a:hover{
     text-decoration: underline;
